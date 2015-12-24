@@ -1,0 +1,17 @@
+E:\Test\GIT\xaml2B\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+E:\Test\GIT\xaml2B\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+E:\Test\GIT\xaml2B\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\ResourceHandlingTask.state
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+E:\Test\GIT\xaml2B\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
